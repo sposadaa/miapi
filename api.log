@@ -1,0 +1,146 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:02:03] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:02:07] "GET /v1/users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:02:28] "GET /v1/users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:02:29] "GET /v1/users HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:__main__:OPERATION OK: Metodo GET Users ejecutado correctamente
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:05:43] "GET /v1/users HTTP/1.1" 200 -
+INFO:__main__:OPERATION OK: Metodo GET Users ejecutado correctamente
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:05:44] "GET /v1/users HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+WARNING:__main__:AUTH NOT SUCCESS: Bearer token incorrecto
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:15:27] "[31m[1mPOST /v1/users HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+INFO:werkzeug: * Detected change in 'c:\\Users\\Netec\\Desktop\\miapi\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8080
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 760-139-840
+WARNING:__main__:VALUE ERROR: Messi o 38ss son invalidos
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:25:23] "[31m[1mPOST /v1/users HTTP/1.1[0m" 400 -
+INFO:__main__:INSERT SUCCESS: Sebas, 35
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2025 12:25:36] "[35m[1mPOST /v1/users HTTP/1.1[0m" 201 -

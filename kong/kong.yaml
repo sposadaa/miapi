@@ -1,0 +1,17 @@
+_format_version: "3.0"
+_transform: true
+
+services:
+  - name: user-api
+    url: http://host.docker.internal:8080
+    routes:
+      - name: api-user-route
+        paths:
+          - /api1
+
+  - name: items-api
+    url: http://host.docker.internal:8083
+    routes:
+      - name: api-items-route
+        paths:
+          - /api2       
